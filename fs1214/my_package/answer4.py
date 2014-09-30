@@ -4,7 +4,6 @@ Created on Sep 29, 2014
 @author: ds-ga-1007
 
 
-
 '''
 def main():
     import math
@@ -20,10 +19,4 @@ def main():
     print e
 if __name__ == '__main__':
     main()
-    
-    
-    
-    
-    
-    
-    
+        
