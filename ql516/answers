@@ -1,0 +1,28 @@
+>>Question 1:   
+and  legal
+_and  legal
+var   legal
+var1  legal
+1var  not legal: names should not begin with numbers
+my-name  not legal: "-"is can not be used in variable names
+your_name legal
+COLOR    legal
+
+>> Question 2:
+a=False    Boolean
+b=3.7      Double
+c='Alex'   String
+d=7        Integer
+e='True'   String
+f=17j      Complex
+g='17'     String
+h=True     boolean
+i='3.14159' String
+
+>> Question 3:
+b and c : False
+b or c  : True
+not a and b : True
+(a and b) or not c : True
+not b and not (a or c) : False
+
