@@ -18,7 +18,7 @@ d = 7 : integer
 e = 'True' : string
 f = 17j : complex
 g = '17' : string
-h = True : bool
+h = True : boolean
 i = '3.14159' : string
 
 3. What is the value (True or False) produced by each expression below, using the initial values of the variables a = False, b = True, and c = False. 
