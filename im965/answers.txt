@@ -1,1 +1,32 @@
 *This file contains the answers to questions 1-4 for assignment five (im965)
+
+1)Which of the following are legal Python names?
+
+and 			One of the reserved Python keywords
+_and			Legal
+var			Legal
+var1			Legal
+lvar			Legal
+my-name			Python sees "-" as the minus operator
+your_name		Legal
+COLOR			Legal
+
+
+2)Determine the type of each object
+a.bool type
+b.float type
+c.string type
+d.int type
+e.string type
+f.complex type
+g.string type
+h.bool type
+i.string type
+
+3)Are the following expressiong true or false. A=false, B=true, C=false
+b and c					False
+b or c					True
+not a and b				True
+(a and b) or not c			True
+not b and not (a or c)			False
+
