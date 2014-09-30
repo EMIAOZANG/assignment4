@@ -1,5 +1,5 @@
 >>Question 1:   
-and  legal
+and  not legal 'and' is a reserved word
 _and  legal
 var   legal
 var1  legal
@@ -10,13 +10,13 @@ COLOR    legal
 
 >> Question 2:
 a=False    Boolean
-b=3.7      Double
+b=3.7      Float
 c='Alex'   String
 d=7        Integer
 e='True'   String
 f=17j      Complex
 g='17'     String
-h=True     boolean
+h=True     Boolean
 i='3.14159' String
 
 >> Question 3:
