@@ -6,7 +6,7 @@ Question_1
        "1var"        not legal  It cannot start with a number. 
        "my-name"     not legal  Operators cannot be assigned in a varible name.
        "your_name"   legal 
-       "COLOR"       leagal 
+       "COLOR"       legal 
 
 Question_2
        a=False 
