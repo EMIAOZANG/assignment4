@@ -1,0 +1,33 @@
+1. legal python names are:
+   _and  var  var1  your_name  COLOR
+
+   illegal names are:
+   and: because 'and' is one of the reserved words.
+   1var: because names cannot start with a number.
+   my-name: because names can only contain numbers, letters and underscores, excluding "-".
+
+2.
+a = False   boolean
+b = 3.7   floating point
+c = 'Alex'   string
+>>> d = 7   integer
+>>> e = 'True'   string
+>>> f = 17j   complex
+>>> g = '17'   string
+>>> h = True   boolean
+>>> i = '3.14159'   string
+
+3.
+b and c : False
+b or c : True
+not a and b : True
+(a and b) or not c : True
+not b and not (a or c) : False
+
+
+
+
+
+
+
+
