@@ -6,7 +6,7 @@ var : Legal.
 var1 : Legal.
 1var : Illegal. Variable name cannot start with a number.
 my-name : Illegal. '-' is an invalid symbol in variable names.
-your_name : Legbal.
+your_name : Legal.
 COLOR : Legal.
 
 2. Python automatically infers the type from the value you assign to the variable. What is the type of the value stored in each of the variables below.
