@@ -1,0 +1,67 @@
+Answers for questions 1 - 3:
+Question 1:
+
+and - not legal. reserved word.
+
+_and  - legal
+
+var  - legal
+
+var1 - legal
+
+1var - not legal. you cannot start a name with a digit.
+
+my-name - not legal. it reads "-" as an operator so it thinks we are trying to subtract name from my.
+
+your_name - legal
+
+COLOR - legal
+
+
+
+-------------------------------------------
+Question 2:
+
+a = bool
+
+b = float
+
+c = string
+
+d = int
+
+e = string
+
+f = complex number
+
+h = bool
+
+i = string
+
+----------------------------------------
+
+Question 3:
+
+b and c = False
+b or c = True
+not a and b = True
+
+(a and b) or not c = True
+
+not b and not(a or c) = False
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
