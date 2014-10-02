@@ -1,0 +1,27 @@
+Question 1
+and is not a legal variable name since and is a python keyword.
+_and is a legal variable name.
+var is a legal variable name.
+var1 is a legal variable name.
+1var is not a legal variable name since the first character of a variable name has to be a letter.
+my-name is not a legal variable name since - is not legal in variable names.
+your_name is a legal variable name.
+COLOR is a legal variable name.
+
+Question 2
+The type of value stored in a is boolean.
+The type of value stored in b is floating.
+The type of value stored in c is string.
+The type of value stored in d is integer.
+The type of value stored in e is string.
+The type of value stored in f is imaginary.
+The type of value stored in g is string.
+The type of value stored in h is boolean.
+The type of value stored in i is string.
+
+Question 3
+b and c is False.
+b or c is True.
+not a and b is True.
+(a and b) or not c is True.
+not b and not (a or c) is False.
