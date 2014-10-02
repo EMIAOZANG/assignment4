@@ -5,10 +5,8 @@ Created on Sep 30, 2014
 '''
 def main():
     li=[1,2,3,4,5,6,7,8,9]
-    li=li[0:4]
-    li.extend([1,1,1,2,2,3,3,3,3,4,4,4])
-    li.sort()
-    print li
+    newli=[li[0]]*4+[li[1]]*3+[li[2]]*5+[li[3]]*4
+    print newli
 if __name__ == '__main__':
     main()
     
