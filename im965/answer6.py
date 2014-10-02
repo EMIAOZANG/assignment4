@@ -1,5 +1,5 @@
 #answer6.py
-#im965 program for assignment 03, question 06
+#im965 program for assignment 04, question 06
 
 #!/usr/bin/env python
 
