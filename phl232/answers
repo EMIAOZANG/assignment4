@@ -1,4 +1,6 @@
-1.	and - reserved word
+1.	Everything is legal except for the following 3
+
+	and - reserved word
 	1var - cannot start with number
 	my-name - hyphen is the subtraction operator
 
