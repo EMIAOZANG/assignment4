@@ -1,0 +1,31 @@
+Question 1
+
+1.and:illegal, "and" is an logical operator
+2._and:legal
+3.var:legal
+4.var1:legal
+5.my-name:illegal, "-" is an operator
+6.your_name:legal
+7.COLOR:legal
+8.1var:illegal,cannot start with a number
+
+Question 2
+
+1.Boolean
+2.Float
+3.String
+4.Integer
+5.String
+6.Complex
+7.String
+8.Boolean
+9.String
+
+Question 3
+
+1.F
+2.T
+3.T
+4.T
+5.F
+
