@@ -1,0 +1,22 @@
+1. The legal names are: _and, var, var1, your_name, COLOR.
+'and' is not legal because 'and' is reserved word;
+'1var' is not legal because '1var' begins with number;
+'my-name' is not legal because it contains '-'.
+
+2.The type of a is boolean;
+the type of b is float;
+the type of c is string;
+the type of d is int;
+the type of e is string;
+the type of f is complex;
+the type of g is string;
+the type of h is boolean;
+the type of i is string.
+
+3. a = False, b = True, c = False
+Then,
+b and c  is False,
+b or c is True,
+not a and b is True,
+(a and b) or not c is True,
+not b and not (a or c) is False.
