@@ -1,0 +1,11 @@
+1. 'and' is not a legal Python name, because it's a reserved word in Python.
+'1var' is not a legal Python name, because names cannot start with a number.
+'my-name' is not a legal Python name, because it contains a dash. 
+
+2. a - boolean, b - float, c - string, d - integer, e - string, f - complex number, g - string, h - boolean, i - string. 
+
+3. b and c - False
+   b or c - True
+   not a and b - True
+   (a and b ) or not c - True
+   not b and not (a or c) - False
