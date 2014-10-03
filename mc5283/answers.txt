@@ -1,0 +1,28 @@
+1. 
+and: No, it is a logical operator.
+_and: Yes
+var: Yes
+var1: Yes
+1var: No, can not start with a number, must starts with a letter or a under score
+my-name: No, python would identify '-' as minus.
+your_name: Yes
+COLOR: Yes
+
+2.
+a: boolean
+b: float point
+c: string
+d: integer
+e: string
+f: imaginary&complex
+g: string
+h: boolean
+i: string
+
+3.
+False
+True
+True
+True
+False
+
