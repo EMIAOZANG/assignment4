@@ -1,0 +1,48 @@
+1: which of the following are legal Python names?
+   legal names: _and, var, var1, your_name,COLOR
+   not legal names: and -> it is a logical operation, a reserved word
+                    1var-> begin with a number
+                    my-name-> contains a '-'.
+ 
+ 2:what is the type of the value store in each of the variables below:
+   a = False : boolean
+   b = 3.7   : A floating point
+   c = 'Alex': A String
+   d = 7     : An integer assignment
+   e = 'True': A string
+   f = 17j   : complex(imaginary)
+   g = '17'  : A string
+   h = True  : boolean
+   i = '3.14159' : A string
+   
+   #
+   >>> type(a)
+   <type 'bool'>
+   >>> type(b)
+   <type 'float'>
+   >>> type(c)
+   <type 'str'>
+   >>> type(d)
+   <type 'int'>
+   >>> type(e)
+   <type 'str'>
+   >>> type(f)
+   <type 'complex'>
+   >>> type(g)
+   <type 'str'>
+   >>> type(h)
+   <type 'bool'>
+   >>> type(i)
+   <type 'str'>
+ 
+ 3:What is the value (True or False)?
+  >>> b and c
+      False
+  >>> b or c
+      True
+  >>> not a and b
+      True
+  >>> ( a and b ) or not c
+      True
+  >>> not b and not (a or c)
+      False

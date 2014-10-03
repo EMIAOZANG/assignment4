@@ -1,0 +1,20 @@
+1. "_and, var, var1, your_name, COLOR" are legal names. 
+   "and" is not a legal name since it is a reserved word that has other meaning in python.
+   "1var" is not a legal name since names cannot start with a number
+   "my-name" is not a legal name since names can only contain letters, numbers and underscores.
+
+2.a: Boolean(Class boolean)
+  b: Float(Floating point number)
+  c: String
+  d: Integer
+  e: String
+  f: Complex(Complex number)
+  g: String
+  h: Boolean
+  i: String
+
+3. b and c--False
+   b or c--True
+   not a and b--True
+   (a and b) or not c--True
+   not b and not (a or c)--False
