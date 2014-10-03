@@ -43,7 +43,7 @@ Question_2
        In [11]: g='17'
        In [12]: type(g)
        Out[12]: str
-  
+
        h=True      Boolean
        In [13]: h=True
        In [14]: type(h)
@@ -61,3 +61,4 @@ Question_3
        not a and b is True 
        (a and b) or not c is True
        not b and not (a or c) is False.
+
