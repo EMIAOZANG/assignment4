@@ -1,0 +1,9 @@
+firstname = raw_input("Enter your first name:")
+
+lastname = raw_input("Enter your last name:")
+print "Enter your date of birth:"
+month = raw_input( "Month?")
+date = raw_input( "Day?")
+year = raw_input( "Year?")
+
+print firstname + " " + lastname + " " + "was born on" + " " + month + " " + date + ", " + year + "."
