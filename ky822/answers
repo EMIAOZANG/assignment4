@@ -9,47 +9,47 @@ Question_1
        "COLOR"       legal 
 
 Question_2
-       a=False 
+       a=False     Boolean
        In [3]: a=False
        In [4]: type(a)
        Out[4]: bool
 
-       b=3.7
+       b=3.7       Float
        In [1]: b=3.7
        In [2]: type(b)
        Out[2]: float
 
-       c='Alex'
+       c='Alex'    String
        In [3]: c='Alex'
        In [4]: type(c)
        Out[4]: str
 
-       d=7
+       d=7         Interger
        In [5]: d=7
        In [6]: type(d)
        Out[6]: int
 
-       e='True'
+       e='True'    String
        In [7]: e='True'
        In [8]: type(e)
        Out[8]: str
 
-       f=17j
+       f=17j       Complex
        In [9]: f=17j
        In [10]: type(f)
        Out[10]: complex
 
-       g='17'
+       g='17'      String
        In [11]: g='17'
        In [12]: type(g)
        Out[12]: str
   
-       h=True
+       h=True      Boolean
        In [13]: h=True
        In [14]: type(h)
        Out[14]: bool
 
-       i='3.14159'
+       i='3.14159' String
        In [15]: i='3.14159'
        In [16]: type(i) 
        Out[16]: str
