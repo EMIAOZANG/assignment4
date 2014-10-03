@@ -1,0 +1,28 @@
+1. 
+and		legal
+_and		legal
+var		legal
+var1		legal
+1var		not legal; can't start a name with a number
+my-name		not legal; can't have hyphens, only underscores
+your_name	legal
+COLOR		legal
+
+2.
+a = False		bool type
+b = 3.7			float type
+c = 'Alex'		string type
+d = 7			integer type
+e = 'True'		string type
+f = 17j			complex type
+g = '17'		string type
+h = True		bool type
+i = '3.14159'		string type
+
+3.
+b and c			false
+b or c			true
+not a and b		true
+(a and b) or not c	true
+not b and not (a or c)	false
+

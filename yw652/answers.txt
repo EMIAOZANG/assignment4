@@ -1,0 +1,23 @@
+1. and: Not legal, since and is a reserved word
+   _and: legal
+   var: legal
+   var1: legal
+   1var: Not legal, because the variable name cannot start with a number
+   my-name: Not legal, because variable name cannot contain bash
+   your_name: legal
+   COLOR: legal
+2. a: Boolean
+   b: float
+   c: String
+   d: integer
+   e: String
+   f: Imaginary number
+   g: String
+   h: Boolean
+   i: String
+3. b and c: False
+   b or c: True
+   not a and b: True
+   (a and b) or not c: True
+   not b and not (a or c): False
+
