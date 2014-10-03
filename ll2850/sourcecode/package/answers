@@ -1,0 +1,29 @@
+Question 1:
+
+Legal Python names include: _and, var, var1, your_name, COLOR.
+ 
+The reason why some of the names are illegal is shown as follow:
+
+and— reserved word in Python
+1var— name cannot start with a number
+my-name "-" is a logical operator in Python
+
+Question 2:
+
+a— boolean 
+b— float
+c— string
+d— integer
+e— string
+f— complex
+g— string
+h— boolean
+i— string
+
+Question 3:
+False
+True
+True
+True
+False
+

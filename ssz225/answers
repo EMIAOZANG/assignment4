@@ -1,0 +1,25 @@
+1. 
+	Legal Python names: 
+		_and, var, var1, your_name, COLOR
+	Names that are not legal:
+		and because it is a reserved word
+		1var because names cannot start with numbers
+		my-name because cannot contain hyphen (-) in name, names can only contain letters, numbers, and underscores
+		
+		
+2.
+	a = False -> Boolean
+	b = 3.7 -> Floating Point
+	c = 'Alex' -> String
+	d = 7 -> Integer
+	e = 'True' -> String
+	f = 17j -> Complex Number Literal
+	g = '17' -> String
+	h = True -> Boolean
+	i = '3.14159' -> String
+3.
+	b and c is False
+	b or c is True
+	not a and b is True
+	(a and b) or not c is True
+	not b and not (a or c) is False

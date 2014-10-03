@@ -1,0 +1,27 @@
+1. The Python interpreter has strict rules for variable names. Which of the following are legal Python names? If the name is not legal, state the reason.
+and                  not legal   reserved words
+_and                 legal
+var 		     legal
+var1                 legal
+1var                 not legal   name can't start with a number
+my-name              not legal   can't use hyphen in name
+your_name            legal 
+COLOR                legal
+
+2. Python automatically infers the type from the value you assign to the variable. What is the type of the value stored in each of the variables below.
+a=False		Boolean
+b=3.7		Floating point
+c='Alex'	String
+d=7		Integer
+e='True'	String
+f=17j		Imaginary number
+g='17'		String
+h=True		Boolean
+i='3.14159'	String
+
+3. What is the value (True or False) produced by each expression below, using the initial values of the variables a = False, b = True, and c = False.
+b and c			False
+b or c			True
+not a and b		True
+(a and b) or not c	True
+not b and not (a or c)	False
