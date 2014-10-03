@@ -1,0 +1,31 @@
+1.
+and		:illegal, "and" is a python keyword
+_and		:legal
+var		:legal
+var1		:legal
+1var		:illegal, Variables cant begin with numbers
+my-name		:illegal, "-" is an illegal character
+your_name	:legal
+COLOR		:legal
+
+
+2.
+a = False	:bool
+b = 3.7		:float
+c = 'Alex'	:str
+d = 7		:int
+e = 'True'	:str
+f = 17j		:complex
+g = '17'	:str
+h = True	:bool
+i = '3.14159'	:str
+
+
+3.
+b and c			:False
+b or c			:True
+not a and b		:True
+(a and b) or not c	:True
+not b and not (a or c)	:False
+
+

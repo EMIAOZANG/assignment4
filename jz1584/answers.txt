@@ -1,0 +1,31 @@
+1.ANS:
+legal names:
+"_and", "var", "var1","your_name", "COLOR"
+illegal names: 
+"and", it is a reserved name;
+"1var", name cann't start with a number
+"my-name","-" is an operator 
+ 
+
+2.ANS:
+a=False is boolean
+b=3.7 is a float
+c='Alex' is a string
+d=7 is a integer
+e='True' is a string
+f=17j is a imaginary
+g='17' is a string
+h=True is a boolean
+i='3.14159' is a string
+
+
+3.ANS: a=False, b=True, c=False
+b and c is False
+b or c is True
+not a and b is True
+(a and b) or not c is True
+not b and not (a or c) is False
+
+
+
+

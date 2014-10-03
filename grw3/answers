@@ -1,0 +1,27 @@
+1.
+and		not legal; reserved word
+_and		legal
+var		legal
+var1		legal
+1var		not legal; starts with a number
+my-name		not legal; contains hyphen
+your_name	legal 
+COLOR		legal
+
+2.
+a=False		boolean
+b=3.7		floating point
+c='Alex'	string
+d=7		integer
+e='True'	string
+f=17j		imaginary
+g='17'		string
+h=True		boolean
+i='3.14159'	string
+
+3.
+b and c			False
+b or c			True
+not a and b		True
+(a and b) or not c	True
+not b and not (a or c)	False
