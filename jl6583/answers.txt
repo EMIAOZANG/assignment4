@@ -1,0 +1,30 @@
+#Following are the answers to question 1-3
+##########################################
+#Question 1
+and : this name is illegal because 'and' is a reserved key word in python for logical AND operation
+_and : legal
+var : legal
+var1 : legal
+1var : illegal, python only supports variable names that starts with an underline or an alphabetic letter
+my-name : illegal because python only allows variable names that contains underlines('-'), letters(A to Z, a to z) and number digits(0-9)
+your_name : legal
+COLOR : legal
+
+#Question 2
+Types of objects can be found by referring to the type() function.
+a : boolean
+b : float
+c : string
+d : integer
+e : string
+f : complex
+g : string
+h : boolean
+i : string
+
+#Question 3
+False
+True
+True
+True
+False
